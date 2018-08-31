@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "net.usebox.shapes"
+    version     = "0.1.0" >
+
+  <name>Numbers</name>
+
+  <description>
+	  Count to ten, for toddlers.
+  </description>
+
+  <author href="https://bitbucket.org/reidrac/numbers/src" email="jjm@usebox.net">
+	Juan J. Martinez
+  </author>
+
+  <preference name="DisallowOverscroll" value="true" />
+
+</widget>
+
